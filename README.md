@@ -71,8 +71,8 @@ claude --version
 ## 2. Clone the study repository
 
 ```bash
-git clone https://github.com/fesiib/starlab-2026.git
-cd starlab-2026
+git clone https://github.com/fesiib/youtube-creator-remotion.git
+cd youtube-creator-remotion
 ```
 
 ---
