@@ -144,7 +144,8 @@ claude
 
 1. Install the **Claude Code** extension from the marketplace.
 2. If you're already signed in to a personal Claude account in the extension, sign out first — otherwise the extension will use your personal account instead of the study's Bedrock config.
-3. Open this repo as a workspace and click the Claude icon in the side panel.
+3. Reload the VSCode window (Cmd/Ctrl+Shift+P → "Developer: Reload Window")
+4. Open this repo as a workspace and click the Claude icon in the side panel.
 
 The committed `.claude/settings.json` configures Bedrock and Opus 4.7 for both paths, so no extra login is needed.
 
